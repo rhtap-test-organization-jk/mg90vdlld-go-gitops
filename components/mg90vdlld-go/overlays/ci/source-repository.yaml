@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mg90vdlld-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/mg90vdlld-go
